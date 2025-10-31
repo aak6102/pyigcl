@@ -1,0 +1,1 @@
+利用intel IGCL API实现读取显示器属性、EDID、读取DPCD寄存器
